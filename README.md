@@ -34,7 +34,7 @@ The project was built step by step in stages:
 
 ## Demo
 
-<video width="1920" height="1080" align="center" src=""></video>
+<video width="1920" height="1080" align="center" src="https://github.com/user-attachments/assets/b58284b3-2630-4c9b-a3c8-73446bb2ee4d"></video>
 
 ## Takeaway
 
