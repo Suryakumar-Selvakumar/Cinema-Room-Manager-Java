@@ -27,8 +27,9 @@ The project was built step by step in stages:
     - Number of purchased tickets.
     - Percentage of tickets sold (rounded to 2 decimals).
     - Current income.
-    - Total potential income.  
-      Improve error handling so:
+    - Total potential income.
+        
+   Improve error handling so:
     - Already purchased seats cannot be bought again.
     - Out-of-bound seat coordinates show a **Wrong input!** message.
 
